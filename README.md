@@ -1,5 +1,5 @@
 # Make a guess
-Wednesday 20 May 2020 12:53:04 AM IST
+Wednesday 20 May 2020 01:51:18 PM IST
 
-- Number of lines of code in `guessinggame.sh` are: 
-20
+**Total number of lines** in code `guessinggame.sh` are:  
+26
